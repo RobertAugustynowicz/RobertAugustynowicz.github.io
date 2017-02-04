@@ -6,9 +6,6 @@ You can use the [editor on GitHub](https://github.com/RobertAugustynowicz/Robert
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-welcome to the kingdom of the Wood elf mage: caution trespassers will be shown no mercy
 
 ```markdown
 Syntax highlighted code block
